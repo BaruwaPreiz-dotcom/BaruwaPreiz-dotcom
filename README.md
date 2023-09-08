@@ -2,7 +2,7 @@
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me.Reach me via slack,my username is Preiz or on my email on baruwaenoch@gmail.com
+- 📫 How to reach me.Reach me via my email on baruwaenoch@gmail.com
 
 <!---
 BaruwaPreiz-dotcom/BaruwaPreiz-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
